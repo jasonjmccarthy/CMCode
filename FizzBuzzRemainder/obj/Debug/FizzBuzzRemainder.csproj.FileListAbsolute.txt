@@ -1,0 +1,5 @@
+c:\users\jason\documents\visual studio 2013\Projects\CMFizzBuss\FizzBuzzRemainder\bin\Debug\FizzBuzzRemainder.dll
+c:\users\jason\documents\visual studio 2013\Projects\CMFizzBuss\FizzBuzzRemainder\bin\Debug\FizzBuzzRemainder.pdb
+c:\users\jason\documents\visual studio 2013\Projects\CMFizzBuss\FizzBuzzRemainder\obj\Debug\FizzBuzzRemainder.dll
+c:\users\jason\documents\visual studio 2013\Projects\CMFizzBuss\FizzBuzzRemainder\obj\Debug\FizzBuzzRemainder.pdb
+c:\users\jason\documents\visual studio 2013\Projects\CMFizzBuss\FizzBuzzRemainder\obj\Debug\FizzBuzzRemainder.csprojResolveAssemblyReference.cache
